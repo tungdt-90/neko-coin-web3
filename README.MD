@@ -61,11 +61,13 @@
 <!-- GETTING STARTED -->
 ## Getting Started
 
-You're probably going to need [NodeJS LTS](https://nodejs.org/en/download/) to use this source code. 
+This repo requires https://github.com/tungdt-90/neko-token-smartcontract to be deployed to Binance Smart Chain Testnet before this can be used.
+
+Please make sure to get the **mnemonic** key which you will be able to obtain through the deployment of https://github.com/tungdt-90/neko-token-smartcontract  
 
 ### Prerequisites
 - You will need a [Metamask](https://metamask.io/) wallet. In case you don't have one, check out [this article](https://www.followchain.org/make-metamask-wallet/).
-
+- You're probably going to need [NodeJS LTS](https://nodejs.org/en/download/) to use this source code.
 - Install NPM globally
   * npm
     ```sh
