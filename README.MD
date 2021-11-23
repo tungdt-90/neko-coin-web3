@@ -61,9 +61,7 @@
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This repo requires https://github.com/tungdt-90/neko-token-smartcontract to be deployed to Binance Smart Chain Testnet before this can be used.
-
-Please make sure to get the **mnemonic** key which you will be able to obtain through the deployment of https://github.com/tungdt-90/neko-token-smartcontract  
+This repo requires https://github.com/tungdt-90/neko-token-smartcontract to be deployed to Binance Smart Chain Testnet first, before this can be used.
 
 ### Prerequisites
 - You will need a [Metamask](https://metamask.io/) wallet. In case you don't have one, check out [this article](https://www.followchain.org/make-metamask-wallet/).
