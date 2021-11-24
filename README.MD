@@ -36,6 +36,8 @@
     A pet project for interact with ERC20 Neko Token on Binance Testnet
     <br />
     Hand-crafted from scratches with ReactJS, Webpack, TailwindCSS, TailwindUI, HeadlessUI, HeroIcon and Web3JS
+    <br />
+    No <a href="https://create-react-app.dev/" target="_blank">Create React App</a> or any script/boiler template has been used.
   </p>
 </div>
 
