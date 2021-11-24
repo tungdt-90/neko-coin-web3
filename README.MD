@@ -142,6 +142,7 @@ Project Link: [https://github.com/tungdt-90/neko-coin-web3](https://github.com/t
 Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
 
 * [React](https://reactjs.org/)
+* [Web3JS](https://web3js.readthedocs.io/)
 * [Webpack](https://webpack.js.org/)
 * [TailwindCSS](https://tailwindcss.com/)
 * [TailwindUI](https://tailwindui.com/#product-application-ui)
